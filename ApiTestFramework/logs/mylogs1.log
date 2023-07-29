@@ -1,0 +1,90 @@
+20230718 05:22:33 INFO  [main] reusables.EmpReusables EmpReusables.java110 - 200
+20230718 05:24:45 INFO  [main] reusables.EmpReusables EmpReusables.java110 - 200
+20230718 05:24:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java72 - Name matched as given in the request
+20230718 05:24:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java74 - Salary matched as given in the request
+20230718 05:24:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java76 - Age matched as given in the request
+20230718 05:24:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java78 - Employee ID = 4166
+20230718 05:31:59 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java67 - Request status =success
+20230718 05:31:59 INFO  [main] reusables.EmpReusables EmpReusables.java110 - 200
+20230718 05:31:59 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java69 - Request status code is 200
+20230718 05:31:59 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java75 - Name matched as given in the request
+20230718 05:31:59 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java77 - Salary matched as given in the request
+20230718 05:31:59 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java79 - Age matched as given in the request
+20230718 05:31:59 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java81 - Employee ID = 7874
+20230718 05:41:35 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java93 - Request status is success
+20230718 05:43:47 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java92 - Request status is success
+20230718 05:45:18 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java67 - Request status =success
+20230718 05:45:18 INFO  [main] reusables.EmpReusables EmpReusables.java110 - 200
+20230718 05:45:18 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java69 - Request status code is 200
+20230718 05:45:18 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java75 - Name matched as given in the request
+20230718 05:45:18 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java77 - Salary matched as given in the request
+20230718 05:45:18 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java79 - Age matched as given in the request
+20230718 05:45:18 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java81 - Employee ID = 4033
+20230718 05:47:52 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java92 - Request status is success
+20230718 06:40:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java68 - Request status =success
+20230718 06:40:45 INFO  [main] reusables.EmpReusables EmpReusables.java118 - 200
+20230718 06:40:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java70 - Request status code is 200
+20230718 06:40:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java76 - Name matched as given in the request
+20230718 06:42:23 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java68 - Request status =success
+20230718 06:42:23 INFO  [main] reusables.EmpReusables EmpReusables.java118 - 200
+20230718 06:42:23 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java70 - Request status code is 200
+20230718 06:42:23 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java76 - Name matched as given in the request
+20230718 07:00:32 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java47 - All Employees data and total record count is retrieved
+20230718 07:02:08 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java47 - All Employees data and total record count is retrieved
+20230718 07:10:31 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java78 - Request status =success
+20230718 07:10:31 INFO  [main] reusables.EmpReusables EmpReusables.java146 - 200
+20230718 07:10:31 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java80 - Request status code is 200
+20230718 07:10:31 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java86 - Name matched as given in the request
+20230718 11:33:42 INFO  [main] reusables.EmpReusables EmpReusables.java121 - Name=success
+20230718 11:33:42 INFO  [main] reusables.EmpReusables EmpReusables.java122 - Message = null
+20230718 11:35:52 INFO  [main] reusables.EmpReusables EmpReusables.java165 - 200
+20230718 11:35:52 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java61 - Staus Message is verified as success
+20230718 11:36:53 INFO  [main] reusables.EmpReusables EmpReusables.java164 - 200
+20230718 11:36:53 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java61 - Staus Message is verified as success
+20230718 11:38:41 INFO  [main] reusables.EmpReusables EmpReusables.java164 - 200
+20230718 11:38:41 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java61 - Status Message is verified as success
+20230718 11:39:45 INFO  [main] reusables.EmpReusables EmpReusables.java164 - 200
+20230718 11:39:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java61 - Status Message is verified as success
+20230718 11:39:45 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java65 - All Employees data and total record count is retrieved
+20230718 11:40:57 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java78 - Request status =success
+20230718 11:40:57 INFO  [main] reusables.EmpReusables EmpReusables.java164 - 200
+20230718 11:40:57 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java80 - Request status code is 200
+20230718 11:40:57 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java86 - Name matched as given in the request
+20230718 11:40:57 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java90 - Salary matched as given in the request
+20230718 11:40:57 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java94 - Age matched as given in the request
+20230718 11:40:57 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java98 - Employee ID = 4126
+20230718 12:28:33 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java79 - Request status =success
+20230718 12:28:33 INFO  [main] reusables.EmpReusables EmpReusables.java130 - 200
+20230718 12:28:33 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java81 - Request status code is 200
+20230718 12:28:33 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java87 - Name matched as given in the request
+20230718 12:28:33 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java91 - Salary matched as given in the request
+20230718 12:28:33 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java95 - Age matched as given in the request
+20230718 12:28:33 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java99 - Employee ID = 5824
+20230719 06:45:26 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java125 - Request status =error
+20230719 06:45:26 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java126 - Request status is error
+20230719 06:45:26 INFO  [main] reusables.EmpReusables EmpReusables.java139 - 400
+20230719 06:45:26 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java128 - Request status code is 400
+20230719 06:47:09 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java126 - Request status =error
+20230719 06:48:54 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java126 - Request status =error
+20230719 06:48:55 INFO  [main] reusables.EmpReusables EmpReusables.java139 - 400
+20230719 06:48:55 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java129 - Request status code is 400
+20230719 06:48:55 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java134 - Message = Not found record
+20230720 18:35:58 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java128 - Request status =error
+20230720 18:35:58 INFO  [main] reusables.EmpReusables EmpReusables.java117 - 400
+20230720 18:35:58 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java131 - Request status code is 400
+20230720 18:35:58 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java136 - Message = Not found record
+20230720 18:41:37 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java128 - Request status =error
+20230720 18:41:37 INFO  [main] reusables.EmpReusables EmpReusables.java117 - 400
+20230720 18:41:37 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java131 - Request status code is 400
+20230720 18:41:37 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java136 - Message = Not found record
+20230720 18:51:02 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java143 - Begin Fetch_Employeedata by Given Emp_Id
+20230720 18:51:04 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java157 - Status code : 200
+20230720 18:51:04 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java164 - Content is : application/json
+20230720 18:54:55 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java147 - Begin Fetch_Employeedata by Given Emp_Id
+20230720 18:54:56 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java158 - Status code : 200
+20230720 18:54:57 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java165 - Content is : application/json
+20230720 18:56:08 INFO  [main] reusables.EmpReusables EmpReusables.java119 - 200
+20230720 18:56:08 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java67 - Status Message is verified as success
+20230720 18:57:14 INFO  [main] reusables.EmpReusables EmpReusables.java119 - 200
+20230720 18:57:14 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java67 - Status Message is verified as success
+20230720 18:57:14 INFO  [main] scripts.EmpAPIScripts EmpAPIScripts.java71 - All Employees data and total record count is retrieved
