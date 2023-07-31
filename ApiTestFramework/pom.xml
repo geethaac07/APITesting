@@ -93,9 +93,6 @@
 					<includes>
 					<include>*/EmpAPIScripts.java</include>
 					</includes>
-					<suiteXmlFiles>
-						<suiteXmlFile>testngApi.xml</suiteXmlFile>
-					</suiteXmlFiles>
 				</configuration>
 			</plugin>
 		</plugins>
